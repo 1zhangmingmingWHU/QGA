@@ -1,5 +1,7 @@
 # Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies
 
+![淘天集团logo](./README.assets/淘天集团logo.webp)
+
 [![Paper](https://img.shields.io/badge/arXiv-ComingSoon-blue)](#)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](#)
 [![Python](https://img.shields.io/badge/python-3.8%2B-important)](#)
@@ -9,15 +11,7 @@
 
 ## Table of Contents
 
-- [Features](#features)
-- [Method Overview](#method-overview)
-- [Benchmarks & Results](#benchmarks--results)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Datasets](#datasets)
-- [Model Configuration](#model-configuration)
-- [Citation](#citation)
-- [License](#license)
+[TOC]
 
 ---
 
@@ -71,3 +65,45 @@ QGA addresses the problem of learning optimal auto-bidding strategies using only
 - **Ad ROI:** ↑ 2.49%
 - Generalizes across regular/promotion periods, stable cost discipline
 
+## Installation
+
+### Environment Preparation
+
+Please use the following command to install the Python environment.
+
+```
+conda create -n your_env_name python=3.11.14 -y
+conda activate your_env_name
+pip install -r requirements.txt 
+```
+
+### Benchmark Preparation
+
+We use AuctionNet as our benchmark. Please refer to https://github.com/alimama-tech/AuctionNet.
+
+After installing AuctionNet, please place the code files from this repository in the appropriate locations.
+
+## Usage
+
+### Train
+
+```
+cd strategy_train_env/run
+python train_QGA.py
+```
+
+### Evaluate
+
+```
+python run_evaluate.py
+```
+
+## Datasets
+
+Please refer to https://tianchi.aliyun.com/competition/entrance/532236/customize448
+
+## Citation
+
+If you find our work useful, please consider citing us!
+
+## License
