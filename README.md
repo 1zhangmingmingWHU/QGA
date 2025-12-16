@@ -1,10 +1,10 @@
 # Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies
 
-<img src="./README.assets/淘天集团logo.webp" alt="淘天集团logo" style="zoom:50%;" />
+<p align="center">
+  <img src="./README.assets/淘天集团logo.webp" alt="淘天集团logo" width="150">
+</p>
 
-[![Paper](https://img.shields.io/badge/arXiv-ComingSoon-blue)](#)
-[![License](https://img.shields.io/badge/license-Apache%202.0-green)](#)
-[![Python](https://img.shields.io/badge/python-3.8%2B-important)](#)
+
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/arXiv-ComingSoon-blue" alt="Paper"></a>
