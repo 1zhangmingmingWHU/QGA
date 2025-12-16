@@ -1,19 +1,20 @@
 # Q-Regularized Generative Auto-Bidding: From Suboptimal Trajectories to Optimal Policies
 
-![淘天集团logo](./README.assets/淘天集团logo.webp)
+<img src="./README.assets/淘天集团logo.webp" alt="淘天集团logo" style="zoom:50%;" />
 
 [![Paper](https://img.shields.io/badge/arXiv-ComingSoon-blue)](#)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green)](#)
 [![Python](https://img.shields.io/badge/python-3.8%2B-important)](#)
 
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/arXiv-ComingSoon-blue" alt="Paper"></a>
+  <a href="#"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/python-3.8%2B-important" alt="Python"></a>
+</p>
+
 **QGA** (Q-Regularized Generative Auto-Bidding) is a novel framework designed to learn optimal bidding strategies from suboptimal historical data in computational advertising. Built on the [Decision Transformer](https://arxiv.org/abs/2106.01345), QGA introduces Q-value regularization and a dual-exploration mechanism, enabling both efficient policy imitation and robust offline exploration for better generalization in real-world advertising systems.
 
 
-## Table of Contents
-
-[TOC]
-
----
 
 ## Features
 
@@ -106,4 +107,3 @@ Please refer to https://tianchi.aliyun.com/competition/entrance/532236/customize
 
 If you find our work useful, please consider citing us!
 
-## License
