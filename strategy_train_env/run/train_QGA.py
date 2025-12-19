@@ -97,7 +97,6 @@ def train_model(logger, args):
         act_dim=args.act_dim, 
         state_mean=replay_buffer.state_mean,
         state_std=replay_buffer.state_std,
-        # baseline_method='vanilla_dt', # 固定为vanilla_dt
         learning_rate=args.actor_lr,
         weight_decay=args.weight_decay
     )
