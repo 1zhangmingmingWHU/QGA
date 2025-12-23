@@ -10,6 +10,7 @@
   <a href="#"><img src="https://img.shields.io/badge/arXiv-ComingSoon-blue" alt="Paper"></a>
   <a href="#"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/python-3.8%2B-important" alt="Python"></a>
+  [![DOI](https://zenodo.org/badge/1117295128.svg)](https://doi.org/10.5281/zenodo.18030705)
 </p>
 
 **QGA** (Q-Regularized Generative Auto-Bidding) is a novel framework designed to learn optimal bidding strategies from suboptimal historical data in computational advertising. Built on the [Decision Transformer](https://arxiv.org/abs/2106.01345), QGA introduces Q-value regularization and a dual-exploration mechanism, enabling both efficient policy imitation and robust offline exploration for better generalization in real-world advertising systems.
