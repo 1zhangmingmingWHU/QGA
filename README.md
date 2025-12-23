@@ -10,7 +10,7 @@
   <a href="#"><img src="https://img.shields.io/badge/arXiv-ComingSoon-blue" alt="Paper"></a>
   <a href="#"><img src="https://img.shields.io/badge/license-Apache%202.0-green" alt="License"></a>
   <a href="#"><img src="https://img.shields.io/badge/python-3.8%2B-important" alt="Python"></a>
-  <a href="https://doi.org/10.5281/zenodo.18030705"><img src="https://zenodo.org/badge/1117295128.svg" alt="DOI"></a>
+  <a href="https://doi.org/10.5281/zenodo.18030705"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18030705-blue" alt="DOI"></a>
 </p>
 
 
