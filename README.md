@@ -14,10 +14,10 @@
 </p> -->
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2601.02754"><img src="https://img.shields.io/static/v1?label=arXiv&message=2601.02754&color=427AB2" alt="Paper"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=license&message=Apache%202.0&color=F09148" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=python&message=3.8%2B&color=FF9896" alt="Python"></a>
-  <a href="https://doi.org/10.5281/zenodo.18030705"><img src="https://img.shields.io/static/v1?label=DOI&message=10.5281%2Fzenodo.18030705&color=DBDB8D" alt="DOI"></a>
+  <a href="https://arxiv.org/abs/2601.02754"><img src="https://img.shields.io/static/v1?label=arXiv&message=2601.02754&color=dee2e6" alt="Paper"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=license&message=Apache%202.0&color=dee2e6" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=python&message=3.8%2B&color=dee2e6" alt="Python"></a>
+  <a href="https://doi.org/10.5281/zenodo.18030705"><img src="https://img.shields.io/static/v1?label=DOI&message=10.5281%2Fzenodo.18030705&color=74B69F" alt="DOI"></a>
 </p>
 
 
