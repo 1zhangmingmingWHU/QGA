@@ -13,6 +13,7 @@
   <a href="https://doi.org/10.5281/zenodo.18030705 "><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.18030705-blue " alt="DOI"></a>
 </p> -->
 
+<p align="center">
 <a href="https://arxiv.org/abs/2601.02754">
   <img src="https://img.shields.io/static/v1?label=arXiv&message=2601.02754&color=e74c3c" alt="Paper">
 </a>
@@ -28,6 +29,7 @@
 <a href="https://doi.org/10.5281/zenodo.18030705">
   <img src="https://img.shields.io/static/v1?label=DOI&message=10.5281%2Fzenodo.18030705&color=e74c3c" alt="DOI">
 </a>
+</p>
 
 
 
