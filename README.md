@@ -14,9 +14,9 @@
 </p> -->
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2601.02754"><img src="https://img.shields.io/static/v1?label=arXiv&message=2601.02754&color=dee2e6" alt="Paper"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=license&message=Apache%202.0&color=dee2e6" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/static/v1?label=python&message=3.8%2B&color=dee2e6" alt="Python"></a>
+  <a href="https://arxiv.org/abs/2601.02754"><img src="https://img.shields.io/static/v1?label=arXiv&message=2601.02754&color=cd5842" alt="Paper"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=license&message=Apache%202.0&color=8ab708" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/static/v1?label=python&message=3.8%2B&color=0e76b7" alt="Python"></a>
   <a href="https://doi.org/10.5281/zenodo.18030705"><img src="https://img.shields.io/static/v1?label=DOI&message=10.5281%2Fzenodo.18030705&color=74B69F" alt="DOI"></a>
 </p>
 
