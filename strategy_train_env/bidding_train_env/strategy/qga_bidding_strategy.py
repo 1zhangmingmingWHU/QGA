@@ -15,7 +15,7 @@ import pickle
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
 class QGAStrategy(BaseBiddingStrategy):
-    def __init__(self, budget=100, name="QGA-PlayerStrategy", cpa=2, category=1, load_dir=None, reweight_w=0.2):
+    def __init__(self, budget=100, name="QGA-PlayerStrategy", cpa=2, category=1, load_dir=None):
         super().__init__(budget, name, cpa, category)
 
         model_path = "/path_to_actor_model"
@@ -39,7 +39,6 @@ class QGAStrategy(BaseBiddingStrategy):
         self.budget =  budget
         self.category = category
         self.remaining_budget_last =self.budget
-        self.reweight_w = self.model.target_return
 
     def reset(self):
         self.remaining_budget = self.budget
